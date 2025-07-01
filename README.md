@@ -51,7 +51,7 @@ Actualmente no hay un entorno de staging configurado. Las pruebas se realizan lo
 
 ## 📬 Contacto
 
-¿Tienes dudas o sugerencias? ¡Contáctanos vía [email@example.com](mailto:email@example.com) o abre un issue en este repositorio!
+¿Tienes dudas o sugerencias? ¡Contáctanos vía [angel.najera@dedsec.com.mx](mailto:angel.najera@dedsec.com.mx) o abre un issue en este repositorio!
 
 ---
 
